@@ -18,6 +18,6 @@ The model is trained from the project of the "Image Super-Resolution Using CNN w
 
 ## Network Architecture:
 
-![Architecture](https://github.com/OranginaGaoZhao/Self-Feature-Super-Resolution/blob/master/architecture.pdf)
+![Architecture](https://github.com/OranginaGaoZhao/Self-Feature-Super-Resolution/blob/master/architecture.png)
 
 
