@@ -4,7 +4,7 @@
 
 ### Pre-trained model and testing codes (PyTorch)
 
-## Overview
+## Overview:
 
 This script generates 3x super resolved images based on the test images in the folder "test_images/".
 The model is trained from the project of the "Image Super-Resolution Using CNN with Self-Feature Loss".
@@ -12,10 +12,12 @@ The model is trained from the project of the "Image Super-Resolution Using CNN w
 ## Installation Dependencies:
 
 * Pytorch
-
 * PIL
-
 * Numpy
-
 * Torchvision
+
+## Network Architecture:
+
+![Architecture](https://github.com/OranginaGaoZhao/Self-Feature-Super-Resolution/blob/master/architecture.pdf)
+
 
