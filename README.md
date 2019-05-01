@@ -19,7 +19,3 @@ The model is trained from the project of the "Image Super-Resolution Using CNN w
 
 * Torchvision
 
-## How to Run?
-
-```python main.py
-```
