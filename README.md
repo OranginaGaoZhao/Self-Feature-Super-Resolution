@@ -33,10 +33,17 @@ Image Super-Resolution Using CNN Optimised by Self-Feature Loss
 *Submitted to ICIP 2019 
 
 @inproceedings{gao2019image,
+
   title={Image Super-Resolution Using CNN Optimised By Self-Feature Loss},
+  
   author={Gao, Zhao and Edirisinghe, Eran and Chesnokov, Slava},
+  
   booktitle={2019 IEEE International Conference on Image Processing (ICIP)},
+  
   pages={2816--2820},
+  
   year={2019},
+  
   organization={IEEE}
+  
 }
